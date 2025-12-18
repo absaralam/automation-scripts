@@ -6,7 +6,7 @@ A curated collection of high-performance system utilities, automation scripts, a
 
 | Tool | Category | Description |
 | :--- | :--- | :--- |
-| **[Caterpillar SIS Enforcer](sis-compatibility-manager/)** | System / Enterprise | Enforces IE Mode compatibility for Caterpillar Service Information System (SIS) & repairs shortcuts. |
+| **[Caterpillar SIS Enforcer](cat-sis-enforcer/)** | System / Enterprise | Enforces IE Mode compatibility for Caterpillar Service Information System (SIS) & repairs shortcuts. |
 
 ## 🚀 Getting Started
 

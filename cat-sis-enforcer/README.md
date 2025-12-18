@@ -9,7 +9,7 @@ A specialized utility designed to enforce **Caterpillar Service Information Syst
 *   **One-Click Operation**: Auto-elevates to Administrator privileges.
 
 ## 📖 Usage
-1.  Run `SIS_Compatibility_Manager.bat` (it will auto-request Admin rights).
+1.  Run `Cat_SIS_Enforcer.bat` (it will auto-request Admin rights).
 2.  Choose **Option 1** to Install/Fix.
 3.  Choose **Option 2** to completely uninstall and clean up all changes.
 
