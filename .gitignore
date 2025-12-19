@@ -18,6 +18,7 @@ temp/
 .env.local
 config.local.json
 secrets.json
+rclone.conf
 
 # --- Python ---
 __pycache__/
@@ -47,3 +48,4 @@ coverage/
 reports/
 screenshots/
 rec/
+rclone.zip

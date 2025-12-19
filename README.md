@@ -6,6 +6,7 @@ A curated collection of high-performance system utilities, automation scripts, a
 
 | Tool | Category | Description |
 | :--- | :--- | :--- |
+| **[Cloud Backup Manager](cloud-backup-manager/)** | Utility / Backup | Installer that sets up Rclone globally and syncs your `Documents/Archives` to Google Drive. |
 | **[Caterpillar SIS Enforcer](cat-sis-enforcer/)** | System / Enterprise | Enforces IE Mode compatibility for Caterpillar Service Information System (SIS) & repairs shortcuts. |
 
 ## 🚀 Getting Started
