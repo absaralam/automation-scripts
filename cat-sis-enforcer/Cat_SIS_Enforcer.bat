@@ -62,6 +62,7 @@ $TargetShortcuts = @(
 # URLs (Support Wildcards)
 $TargetUrls = @(
     "127.0.0.1/sisweb/servlet/cat.dcs.sis.controller.CSSISDisconnectedEntryServlet",
+    "127.0.0.1/sisweb/servlet/cat.dcs.sis.controller.admin.CSSISImportUserServlet",
     "127.0.0.1/sisweb"
 )
 
