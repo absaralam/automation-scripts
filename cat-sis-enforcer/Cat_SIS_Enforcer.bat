@@ -55,6 +55,7 @@ $WatchdogPath = "$TargetDir\maintain_ie_mode.ps1"
 $TargetShortcuts = @(
     "Caterpillar SIS.lnk",
     "SIS 2.0.lnk",
+    "SIS.lnk",
     "CAT SIS.lnk"
 )
 
